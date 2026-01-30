@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dseijcwtk/video/upload/v1769751105/videoplayback_kbp80t.webm", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
